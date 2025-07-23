@@ -1,4 +1,16 @@
 *.pyc
 data/
 __pycache__/
-.csv
+*.csv
+*.png
+.ipynb_checkpoints/
+.idea/
+*.log
+*.db
+*.sqlite3
+*.env
+*.DS_Store
+*.egg-info/
+*.egg
+*.pyo
+*.pth
